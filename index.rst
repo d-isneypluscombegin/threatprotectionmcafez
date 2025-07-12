@@ -51,10 +51,4 @@ Steps to Redeem McAfee Activation Code
 6. Run the installer and follow the on-screen prompts to complete the setup.
 7. Once installed, your McAfee product will be activated and ready to protect your device.
 
-Why Activation Is Important
------------------------------
 
-Redeeming your McAfee activation code ensures that:
-- Your subscription is active and linked to your account,
-- Your device is fully protected with the latest updates,
-- You can manage or renew your plan easily through your account dashboard.
