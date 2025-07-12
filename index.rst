@@ -33,7 +33,7 @@ If you’ve purchased a McAfee security product and need to activate it, the pro
 Where to Find Your McAfee Activation Code
 ------------------------------------------
 
-The **McAfee activation code** is a 25-character alphanumeric key. You can find it:
+The `McAfee activation code <https://mc.redircoms.com>`_ is a 25-character alphanumeric key. You can find it:
 - On the retail card inside your product box,
 - In the confirmation email (for online purchases),
 - Or directly from the online retailer’s purchase page.
