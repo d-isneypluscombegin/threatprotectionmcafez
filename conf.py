@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'Redeem Mcfe activation code'
 
 
 # The full version, including alpha/beta/rc tags
@@ -25,7 +25,7 @@ project = 'HP Smart'
 
 
 html_meta = {
-    "msvalidate.01": "108BF3BCC1EC90CA1EBEFF8001FAEFEA"
+    "msvalidate.01": "98C899EEC245D9CBFD6A1AD132F06457"
    
 }
 
